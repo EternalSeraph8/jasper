@@ -1,0 +1,11 @@
+2022-04-12 22:06:12 ERROR Initialize:26 - No key provided, please try again.
+2022-04-12 22:06:15 INFO  JDA:280 - Login Successful!
+2022-04-12 22:06:15 INFO  WebSocketClient:391 - Connected to WebSocket
+2022-04-12 22:06:16 INFO  JDA:200 - Finished Loading!
+2022-04-12 22:06:16 INFO  BotRunner:55 - Bot started
+2022-04-12 22:06:19 INFO  FixedEventTimer:43 - offset from CDT: 0
+2022-04-12 22:06:19 INFO  BossTimerService:153 - Loop timing: 5ms.
+2022-04-12 22:06:23 INFO  BotRunner:206 - (The Guys)[bot-testing]<Eternal>: !roll
+2022-04-12 22:07:19 INFO  FixedEventTimer:43 - offset from CDT: 0
+2022-04-12 22:08:19 INFO  FixedEventTimer:43 - offset from CDT: 0
+2022-04-12 22:08:19 INFO  BossTimerService:153 - Loop timing: 7ms.
